@@ -1,7 +1,8 @@
 ## Welcome to my GitHub Pages
 
 
-<center>自    嘲</center>
+
+<h1 style="text-align:center">自    嘲 </h1>
 
 
 <center>本 是 后 山 人</center>
