@@ -1,24 +1,24 @@
 ## Welcome to my GitHub Pages
 
 
-<center>自嘲</center>
+<center>自    嘲</center>
 
 
-<center>本是后山人</center>
+<center>本 是 后 山 人</center>
 
-<center>偶做堂前客</center>
+<center>偶 做 堂 前 客</center>
 
-<center>醉舞经阁半卷书</center>
+<center>醉 舞 经 阁 半 卷 书</center>
 
-<center>坐井说天阔</center>
+<center>坐 井 说 天 阔</center>
 
 
-<center>大志戏功名</center>
+<center>大 志 戏 功 名</center>
 
-<center>海斗量福祸</center>
+<center>海 斗 量 福 祸</center>
 
-<center>论到囊中羞涩时</center>
+<center>论 到 囊 中 羞 涩 时</center>
 
-<center>怒指乾坤错</center>
+<center>怒 指 乾 坤 错</center>
 
 <p align="right">遥远的救世主——豆豆</p>
