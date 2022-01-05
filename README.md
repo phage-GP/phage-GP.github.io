@@ -23,3 +23,5 @@
 <center>怒 指 乾 坤 错</center>
 
 <p align="right">遥远的救世主——豆豆</p>
+
+[ML术语中英对照词表](ML术语中英对照词表.md)
